@@ -6,3 +6,5 @@ Esse é um documento Teste
 
 3º No terceiro commit foi criado uma ramificação para manter a linha 
 principal salva de futuras alterações destrutivas.
+
+Commit Tomas
