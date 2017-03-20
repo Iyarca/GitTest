@@ -3,3 +3,6 @@ Esse é um documento Teste
 1º commit
 
 2º commit
+
+3º No terceiro commit foi criado uma ramificação para manter a linha 
+principal salva de futuras alterações destrutivas.
